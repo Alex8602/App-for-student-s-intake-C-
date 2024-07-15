@@ -1,0 +1,12 @@
+C:\Users\Alex\Desktop\paw recuperare\REC_TANASESCU_ALEXANDRU_GABRIEL_M730\bin\Debug\REC_TANASESCU_ALEXANDRU_GABRIEL_M730.exe.config
+C:\Users\Alex\Desktop\paw recuperare\REC_TANASESCU_ALEXANDRU_GABRIEL_M730\bin\Debug\REC_TANASESCU_ALEXANDRU_GABRIEL_M730.exe
+C:\Users\Alex\Desktop\paw recuperare\REC_TANASESCU_ALEXANDRU_GABRIEL_M730\bin\Debug\REC_TANASESCU_ALEXANDRU_GABRIEL_M730.pdb
+C:\Users\Alex\Desktop\paw recuperare\REC_TANASESCU_ALEXANDRU_GABRIEL_M730\obj\Debug\REC_TANASESCU_ALEXANDRU_GABRIEL_M730.csproj.AssemblyReference.cache
+C:\Users\Alex\Desktop\paw recuperare\REC_TANASESCU_ALEXANDRU_GABRIEL_M730\obj\Debug\REC_TANASESCU_ALEXANDRU_GABRIEL_M730.csproj.SuggestedBindingRedirects.cache
+C:\Users\Alex\Desktop\paw recuperare\REC_TANASESCU_ALEXANDRU_GABRIEL_M730\obj\Debug\REC_TANASESCU_ALEXANDRU_GABRIEL_M730.Form1.resources
+C:\Users\Alex\Desktop\paw recuperare\REC_TANASESCU_ALEXANDRU_GABRIEL_M730\obj\Debug\REC_TANASESCU_ALEXANDRU_GABRIEL_M730.Properties.Resources.resources
+C:\Users\Alex\Desktop\paw recuperare\REC_TANASESCU_ALEXANDRU_GABRIEL_M730\obj\Debug\REC_TANASESCU_ALEXANDRU_GABRIEL_M730.csproj.GenerateResource.cache
+C:\Users\Alex\Desktop\paw recuperare\REC_TANASESCU_ALEXANDRU_GABRIEL_M730\obj\Debug\REC_TANASESCU_ALEXANDRU_GABRIEL_M730.csproj.CoreCompileInputs.cache
+C:\Users\Alex\Desktop\paw recuperare\REC_TANASESCU_ALEXANDRU_GABRIEL_M730\obj\Debug\REC_TANASESCU_ALEXANDRU_GABRIEL_M730.exe
+C:\Users\Alex\Desktop\paw recuperare\REC_TANASESCU_ALEXANDRU_GABRIEL_M730\obj\Debug\REC_TANASESCU_ALEXANDRU_GABRIEL_M730.pdb
+C:\Users\Alex\Desktop\paw recuperare\REC_TANASESCU_ALEXANDRU_GABRIEL_M730\obj\Debug\REC_TANASESCU_ALEXANDRU_GABRIEL_M730.FormAuxiliar.resources
